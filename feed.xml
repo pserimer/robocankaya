@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>robocankaya.org</title>
+    <link href="https://pserimer.github.io/robocankaya/feed.xml" rel="self" />
+    <link href="https://pserimer.github.io/robocankaya" />
+    <updated>2020-03-05T19:55:38+03:00</updated>
+    <author>
+        <name>pserimer</name>
+    </author>
+    <id>https://pserimer.github.io/robocankaya</id>
+
+    <entry>
+        <title>İletişim</title>
+        <author>
+            <name>pserimer</name>
+        </author>
+        <link href="https://pserimer.github.io/robocankaya/iletisim.html"/>
+        <id>https://pserimer.github.io/robocankaya/iletisim.html</id>
+
+        <updated>2020-03-02T10:04:25+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Detaylı bilgi almak ve sorularınız için; Mail adresimiz : info@robocankaya.org Telefon Numarası&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Detaylı bilgi almak ve sorularınız için;</p>
+<p>Mail adresimiz : <a href="mailto:info@robocankaya.org">info@robocankaya.org</a></p>
+<p>Telefon Numarası : 0312 233 12 90</p>
+<p>Adres : Yukarıyurtçu Mahallesi Eskişehir Yolu 29. Km</p>
+<p>             Çankaya Üniversitesi Merkez Kampüs</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Etkinlik Akışı</title>
+        <author>
+            <name>pserimer</name>
+        </author>
+        <link href="https://pserimer.github.io/robocankaya/etkinlik-akisi.html"/>
+        <id>https://pserimer.github.io/robocankaya/etkinlik-akisi.html</id>
+
+        <updated>2020-03-02T10:10:02+03:00</updated>
+            <summary>
+                <![CDATA[
+                    09.30 - 10.00Açılış Konuşmaları &amp; Robot Kayıtları10.00 - 12.15Serbest, Mini Sumo, Çizgi&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table class="align-center" style="border-color: grey; width: 730.362px;" border="darkgrey">
+<tbody>
+<tr>
+<td class="align-left" style="width: 140px;">09.30 - 10.00</td>
+<td style="width: 590.362px;">Açılış Konuşmaları &amp; Robot Kayıtları</td>
+</tr>
+<tr>
+<td class="align-left" style="width: 140px;">10.00 - 12.15</td>
+<td style="width: 590.362px;">Serbest, Mini Sumo, Çizgi İzleyen Kategorilerinde Yarışmalar</td>
+</tr>
+<tr>
+<td class="align-left" style="width: 140px;">12.15 - 13.00</td>
+<td style="width: 590.362px;">Öğle Arası</td>
+</tr>
+<tr>
+<td class="align-left" style="width: 140px;">13.00 - 16.00</td>
+<td style="width: 590.362px;">Serbest, Mini Sumo, Çizgi İzleyen Kategorilerinde Yarışmalar</td>
+</tr>
+<tr>
+<td class="align-left" style="width: 140px;">16.00 - 17.00</td>
+<td style="width: 590.362px;">Ödül Töreni &amp; Kapanış</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Yarışma Kategorileri &amp; Kurallar</title>
+        <author>
+            <name>pserimer</name>
+        </author>
+        <link href="https://pserimer.github.io/robocankaya/yarisma-kategorilerimiz-ve-kurallarimiz.html"/>
+        <id>https://pserimer.github.io/robocankaya/yarisma-kategorilerimiz-ve-kurallarimiz.html</id>
+
+        <updated>2020-03-01T23:58:31+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Kurallar için ilgili kategoriye tıklayınız.Mini Sumo Kategorisi Çizgi İzleyen Kategorisi Serbest Kategori&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1e27v1mag0" class="align-center"><em>Kurallar için ilgili kategoriye tıklayınız.</em></h2>
+<h2 id="mcetoc_1e27qqccj1" class="align-left"><a href="https://pserimer.github.io/robocankaya/mini-sumo.html">Mini Sumo Kategorisi</a>      <img class="post__image" src="https://pserimer.github.io/robocankaya/media/posts/5/IMG_7418.jpg" alt="" width="282" height="189"></h2>
+<h2 id="mcetoc_1e27qtsg52" class="align-left"><a href="https://pserimer.github.io/robocankaya/cizgi-izleyen.html">Çizgi İzleyen Kategorisi </a>  <a href="../../../../cizgi-izleyen.html"><img class="post__image" src="https://pserimer.github.io/robocankaya/media/posts/5/IMG_7322.jpg" alt="" width="280" height="186"></a></h2>
+<h2 id="mcetoc_1e27qv4463" class="align-left"><a href="https://pserimer.github.io/robocankaya/serbest.html">Serbest Kategori</a>              <img class="post__image align-left" src="https://pserimer.github.io/robocankaya/media/posts/5/IMG_9335.jpg" alt="" width="228" height="343"></h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Serbest</title>
+        <author>
+            <name>pserimer</name>
+        </author>
+        <link href="https://pserimer.github.io/robocankaya/serbest.html"/>
+        <id>https://pserimer.github.io/robocankaya/serbest.html</id>
+
+        <updated>2020-02-29T09:31:29+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pserimer.github.io/robocankaya/media/posts/4/IMG_7351.jpg" alt="" />
+                    Serbest Kategori Kurallarımız İçin Takipte Kalın!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pserimer.github.io/robocankaya/media/posts/4/IMG_7351.jpg" alt="" />
+                <h3 id="mcetoc_1e27q77740">Serbest Kategori Kurallarımız İçin Takipte Kalın!</h3>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title> Mini Sumo</title>
+        <author>
+            <name>pserimer</name>
+        </author>
+        <link href="https://pserimer.github.io/robocankaya/mini-sumo.html"/>
+        <id>https://pserimer.github.io/robocankaya/mini-sumo.html</id>
+
+        <updated>2020-02-29T09:31:18+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pserimer.github.io/robocankaya/media/posts/3/arkaplan.jpg" alt="" />
+                    Mini Sumo Kategori Kurallarımız İçin Takipte Kalın!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pserimer.github.io/robocankaya/media/posts/3/arkaplan.jpg" alt="" />
+                <h3 id="mcetoc_1e27q77740">Mini Sumo Kategori Kurallarımız İçin Takipte Kalın!</h3>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Çizgi İzleyen</title>
+        <author>
+            <name>pserimer</name>
+        </author>
+        <link href="https://pserimer.github.io/robocankaya/cizgi-izleyen.html"/>
+        <id>https://pserimer.github.io/robocankaya/cizgi-izleyen.html</id>
+
+        <updated>2020-02-29T10:35:15+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pserimer.github.io/robocankaya/media/posts/2/cizgi_izleyen.jpg" alt="" />
+                    Çizgi İzleyen Kategori Kurallarımız İçin Takipte Kalın!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pserimer.github.io/robocankaya/media/posts/2/cizgi_izleyen.jpg" alt="" />
+                <h3 id="mcetoc_1e27q77740">Çizgi İzleyen Kategori Kurallarımız İçin Takipte Kalın!</h3>
+            ]]>
+        </content>
+    </entry>
+</feed>
